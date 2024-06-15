@@ -1,4 +1,6 @@
 public class Calculator {
+    private String name = "Javascript";
+    
     public int add(int a, int b) {
         return a + b;
     }
